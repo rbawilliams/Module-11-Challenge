@@ -13,10 +13,10 @@ The code and documentation for this project can be found in this GitHub reposito
 This project provides valuable insights into MercadoLibre's financial and user data, which can be used to inform key business decisions and drive revenue growth for the company. We hope that this GitHub repository serves as a valuable resource for our team and other stakeholders.
 
 ## Key Features:
-Analysis of the relationship between Google Search traffic and MercadoLibre's stock price
-Data preparation, analysis, and visualization of time-series data
-A Prophet forecast model to predict hourly user search traffic
-Summary of findings in a README.md file
+- Analysis of the relationship between Google Search traffic and MercadoLibre's stock price
+- Data preparation, analysis, and visualization of time-series data
+- A Prophet forecast model to predict hourly user search traffic
+- Summary of findings in a README.md file
 
 ## Technologies Used:
 - Google Colab
