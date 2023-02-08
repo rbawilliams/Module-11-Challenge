@@ -1,7 +1,7 @@
 
 # Project: Mercado Libre (Forecasting Net Prophet) 
 
-![Alt text](10-5-challenge-image.png)
+![Alt text](11-challenge-image.png)
 
 ## Project Overview:
 This repository is created to analyze the relationship between Google Search traffic and MercadoLibre's stock price with the aim of driving growth for MercadoLibre as a growth analyst. The Jupyter Notebook contains a detailed analysis of the time-series data and a forecast model using Prophet to predict hourly user search traffic. 
